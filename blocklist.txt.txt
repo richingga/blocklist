@@ -1,0 +1,70 @@
+! ======= Iklan Umum =======
+||doubleclick.net^
+||googlesyndication.com^
+||googleadservices.com^
+||adservice.google.com^
+||ads.yahoo.com^
+||adnxs.com^
+||adsafeprotected.com^
+||moatads.com^
+||scorecardresearch.com^
+||zedo.com^
+||adform.net^
+||openx.net^
+||rubiconproject.com^
+||pubmatic.com^
+||serving-sys.com^
+||criteo.com^
+
+! ======= Pelacak (Tracking) =======
+||facebook.com/tr^
+||graph.facebook.com^
+||connect.facebook.net^
+||google-analytics.com^
+||ssl.google-analytics.com^
+||tagmanager.google.com^
+||analytics.twitter.com^
+||pixel.quantserve.com^
+||stats.g.doubleclick.net^
+
+! ======= Iklan Aplikasi Mobile =======
+||unityads.unity3d.com^
+||applovin.com^
+||chartboost.com^
+||vungle.com^
+||adcolony.com^
+||inmobi.com^
+||ironsrc.com^
+
+! ======= Blokir Situs Dewasa =======
+||pornhub.com^
+||xvideos.com^
+||xhamster.com^
+||redtube.com^
+||xnxx.com^
+||youjizz.com^
+||spankbang.com^
+||hclips.com^
+||youporn.com^
+||tnaflix.com^
+
+! ======= Blokir Situs Judi / Gambling =======
+||188bet.com^
+||1xbet.com^
+||bet365.com^
+||dafabet.com^
+||sbobet.com^
+||m88.com^
+||fun88.com^
+||s128.net^
+||sv388.com^
+||toto88.com^
+
+! ======= YouTube Ads (opsional - bisa ganggu video) =======
+||googlevideo.com^
+||youtubei.googleapis.com^
+||ytimg.com^
+
+! ======= Akhiran =======
+! File ini dibuat oleh richingga
+! Untuk digunakan di AdGuard Home
