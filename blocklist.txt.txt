@@ -60,11 +60,6 @@
 ||sv388.com^
 ||toto88.com^
 
-! ======= YouTube Ads (opsional - bisa ganggu video) =======
-||googlevideo.com^
-||youtubei.googleapis.com^
-||ytimg.com^
-
 ! ======= Akhiran =======
 ! File ini dibuat oleh richingga
 ! Untuk digunakan di AdGuard Home
